@@ -1,7 +1,7 @@
 print("hello!")
 
 from os import  makedirs
-makedirs('testdir/homdir')
+makedirs('testdir/homdir/hoho')
 
 
       
